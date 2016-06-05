@@ -1,2 +1,2 @@
 # copy-tab-urls
-Copy the tab urls
+Mozilla webextension to copy the open tab urls to a textarea
