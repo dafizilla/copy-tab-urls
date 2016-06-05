@@ -5,7 +5,7 @@
   "description": "Copy the open tab urls",
 
   "browser_action": {
-    "default_icon": "images/tb16.png",
+    "default_icon": "images/appicon.png",
     "default_title": "Copy Urls"
   },
 
